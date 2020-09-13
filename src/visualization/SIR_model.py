@@ -22,7 +22,9 @@ app.layout = html.Div([
 
     dcc.Markdown('''
 
-    # Implmentation of SIR model for Germany
+    # Implmentation of SIR model for diffrent countries. 
+    
+    Preselected country is Germany however we can results one by one for other countries as well.
 
     '''),
 
